@@ -1,0 +1,18 @@
+﻿  Airline.c
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Airline.c(198,8): warning C4013: 'writeFlightToFile' undefined; assuming extern returning int
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Airline.c(212,63): warning C4028: formal parameter 2 different from declaration
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Airline.c(231,7): warning C4013: 'readFlightsFromFile' undefined; assuming extern returning int
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Airline.c(237,7): warning C4013: 'readPlanesFromFile' undefined; assuming extern returning int
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Airline.c(272,60): warning C4090: 'function': different 'const' qualifiers
+  Flight.c
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\Flight.c(107,68): warning C4028: formal parameter 3 different from declaration
+  airlineFile.c
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\airlineFile.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\airlineFile.c(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\airlineFile.c(12,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\main.c(120,25): warning C4020: 'initAirline': too many actual parameters
+  Generating Code...
+  H2_Air.vcxproj -> C:\Users\user\source\repos\System_Programming\HomeWork\TASK3\x64\Debug\HW3.exe
