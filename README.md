@@ -1,5 +1,5 @@
 # Airline_Project
-This project is a Java-based flight management system designed for an airline. It manages key entities such as airports, planes, flights, and the airline itself, providing functionality for adding and viewing these entities.
+This project is a flight management system designed for an airline in C. It manages key entities such as airports, planes, flights, and the airline itself, providing functionality for adding and viewing these entities.
 
 Features
 
